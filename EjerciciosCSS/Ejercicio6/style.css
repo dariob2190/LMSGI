@@ -1,0 +1,17 @@
+#primera {
+    width: 50%;
+    border: solid 1px black;
+    font-size: 100%;
+}
+
+#segunda {
+    width: 33%;
+    border: red solid 1px;
+    font-size: 120%;
+}
+
+#tercera {
+    width: 25%;
+    border: 1px solid blue;
+    font-size: 80%;
+}
