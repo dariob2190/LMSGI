@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.contenedor {
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.cabecera {
+    background-color: orange;
+    padding: 20px 0;
+    position: relative;
+}
+
+.cabecera img {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 200px;
+}
+
+.contenido {
+    margin: 20px 0;
+}
+
+.columna-izquierda {
+    width: 74%;
+    background-color: plum;
+    padding: 20px;
+    float: left;
+}
+
+.columna-derecha {
+    width: 24%;
+    background-color: lightblue;
+    padding: 20px;
+    float: right;
+}
+ 
+.pie {
+    clear: both;
+    background-color: lightgray;
+    padding: 10px 0;
+    margin-top: 20px;
+}
