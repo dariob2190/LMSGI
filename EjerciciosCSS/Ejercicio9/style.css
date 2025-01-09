@@ -11,7 +11,7 @@ body {
 
 .cabecera {
     background-color: orange;
-    padding: 20px 0;
+    padding: 20px 30px;
     position: relative;
 }
 
@@ -19,7 +19,7 @@ body {
     position: absolute;
     top: 10px;
     right: 10px;
-    height: 200px;
+    height: 100px;
 }
 
 .contenido {
@@ -27,22 +27,24 @@ body {
 }
 
 .columna-izquierda {
-    width: 74%;
+    width: 69%;
     background-color: plum;
-    padding: 20px;
+    padding: 1.5%;
     float: left;
+    margin: 0.5%;
 }
 
 .columna-derecha {
-    width: 24%;
+    width: 23%;
     background-color: lightblue;
-    padding: 20px;
+    padding: 1.5%;
     float: right;
+    margin: 0.5%;
 }
  
 .pie {
     clear: both;
     background-color: lightgray;
-    padding: 10px 0;
+    padding: 10px 30px;
     margin-top: 20px;
 }
