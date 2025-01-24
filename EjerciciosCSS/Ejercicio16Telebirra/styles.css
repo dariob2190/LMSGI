@@ -1,0 +1,65 @@
+body {
+    margin: auto;
+}
+
+#contenedor {
+    background: rgb(252, 231, 152);
+    font-family: sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: red;
+    font-family: Verdana;
+}
+
+h3 {
+    color: blue;
+}
+
+#SupI {
+    width: 50%;
+    float:left;
+}
+
+#SupD {
+    width: 50%;
+    float:right;
+}
+
+#Central {
+    width: 100%;
+    clear: both;
+}
+
+legend {
+    color: green;
+}
+
+label {
+    color: purple;
+}
+
+.boton {
+    border: 1px solid purple;
+    color: purple;
+    background: none;
+    padding: 0;
+}
+
+#MedI {
+    width: 50%;
+    float:left;
+}
+
+#MedD {
+    width: 50%;
+    float:right;
+}
+
+#Pie {
+    width: 100%;
+    clear: both;
+}

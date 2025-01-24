@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.contenedor {
+    margin: auto;
+    width: 90%;
+}
+
+.cabecera {
+    padding: 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.barra-nav {
+    padding: 15px;
+    background-color: lightpink;
+    text-align: center;
+}
+
+.barra-nav a {
+    margin: 0 10px;
+    color: white;
+}
+
+.contenido {
+    padding: 50px;
+    background: lightcoral;
+    overflow: scroll;
+    height: 200px;
+}
+
+.pie {
+    padding: 20px;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+}
